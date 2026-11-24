@@ -1,0 +1,7 @@
+url: https://github.com/yuanzephyr920-oss/dsh-github-prior-art
+name: yuanzephyr920-oss/dsh-github-prior-art
+category: workflow
+description:
+  en: 'A standing rule plus a skill for DSH: before building something from scratch — a new project, feature, plugin, tool, algorithm or page — the agent searches GitHub for 3–5 comparable projects, compares stars, last commit, license and shape, then states the candidates, the decision (depend on one, fork one, borrow its structure, or build) and the reason in three lines. Bug fixes, small edits and config or doc changes are exempt.'
+  zh: '给 DSH 的常驻规矩 + 技能：从零新建项目、功能、插件、工具、算法或页面之前，先检索 GitHub 上 3–5 个同类项目，比对 star、最近提交、许可证与形态，再用三行写清候选、决定（依赖·fork·借结构·自建）与理由；修 bug、小改、配置与文档不查。'
+icon: https://raw.githubusercontent.com/yuanzephyr920-oss/dsh-github-prior-art/main/assets/icon-180.png
